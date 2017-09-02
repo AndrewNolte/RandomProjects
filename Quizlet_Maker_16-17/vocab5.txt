@@ -1,0 +1,95 @@
+Acuity
+(n.) sharpness [particularly of the mind or senses]
+Synonyms: keenness, acuteness
+Antonyms: dullness, obtuseness
+Sentence: The acuity of most people’s hearing diminishes as they grow older. 
+Delineate
+(v.) to portray, sketch, or describe in accurate and vivid detail; to represent pictorially
+Synonyms: depict, picture, render
+Sentence: The architects will delineate the main features of their plan at the next client meeting.
+Depraved
+(adj.) marked by evil and corruption, devoid of moral principles
+Synonyms: perverted, degenerate, vicious, corrupt
+Antonyms: moral, virtuous, upright, uncorrupted
+Sentence: Oscar Wilde’s novel The Picture of Dorian Gray is about a depraved man whose portrait reveals his wickedness.
+Enervate
+(v.) to weaken or lessen the mental, moral or physical vigor of; enfeeble, hamstring
+Synonyms: impair, cripple, paralyze
+Antonyms: invigorate, strengthen, buttress
+Sentence: Unfortunately, the great musician’s mind was enervated by disease in the last decade of her life.
+Esoteric
+(adj.) intended for or understood by only a select few, private, secret
+Synonyms: occult, cryptic, arcane, recondite
+Antonyms: accessible, comprehensible, intelligible
+Sentence: The fraternity developed a set of esoteric rites that had to be performed by anyone seeking membership.
+Fecund
+(adj.) fruitful in offspring or vegetation; intellectually productive
+Synonyms: fertile, teeming, prolific
+Antonyms: infertile, barren, unproductive 
+Sentence: The remarkably fecund mind of Albert Einstein produced theories that revolutionized the science of physics. 
+Fiat
+(n.) an arbitrary order or decree; a command or act of will or consciousness
+Synonyms: edict, dictum, ukase
+Sentence: The ruler instituted several new fiats.
+Figment
+(n.) a fabrication of the mind; an arbitrary notion
+Synonyms: creation, invention, fancy
+Sentence: The silhouette of a man on the porch was a mere figment of your overheated imagination. 
+Garner
+(v.) to acquire as the result of effort; to gather and store away, as for future use
+Synonyms: collect, accumulate, accrue
+Antonyms: scatter, squander, waste, dissipate
+Sentence: Over the years, the writer was able to garner some wisdom that she passed on to others in her books. 
+Hallow
+(v.) to set apart as holy or sacred, sanctify, consecrate; to honor greatly, revere
+Synonyms: venerate, bless
+Antonyms: desecrate, defile, profane
+Sentence: In the Gettysburg Address, Lincoln hallowed the battlefield on which the Union soldiers fought and died. 
+Idiosyncrasy
+(n.) a peculiarity that serves to distinguish or identify
+Synonyms: eccentricity, quirk, mannerism
+Sentence: The fact that the plurals of some nouns are formed irregularly is an idiosyncrasy of English grammar. 
+Ignominy
+(n.) shame and disgrace
+Synonyms: dishonor, humiliation, disrepute, odium
+Antonyms: honor, glory, acclaim
+Sentence: He went from glory to ignominy. 
+Mundane
+(adj.) earthly, wordly, relating to practical and material affairs; concerned with what is ordinary
+Synonyms: prosaic, humdrum, routine, sublunary
+Antonyms: heavenly, unworldly, spiritual, transcendental
+Sentence: The painter left all mundane concerns to her sister while she single-mindedly pursued her artistic goals. 
+Nuance
+(n.) a subtle or slight variation (as in color, meaning, quality), delicate gradation or shade of difference
+Synonyms: shade, nicety, refinement
+Sentence: In his writing, the poet paid close attention to every nuance of meaning in the words he chose. 
+Overweening
+(adj.) conceited, presumptuous; excessive, immoderate
+Synonyms: arrogant, unbridled, inflated
+Antonyms: restrained, understated, modest, meek
+Sentence: It was the overweening confidence of the candidate that prevented her from acknowledging her weaknesses. 
+Penchant
+(n.) a strong attraction or inclination
+Synonyms: proclivity, propensity, predilection
+Antonyms: disinclination, aversion
+Sentence: A teacher with a penchant for belaboring the obvious is bound to be boring. 
+Reputed
+(adj.) according to reputation or general belief; having widespread acceptance and good reputation; (part.) alleged
+Synonyms: putative, reputable, supposed
+Antonyms: proven, corroborated, authenticated
+Sentence: Although he is the reputed head of a crime syndicate, he has never spent time in jail. 
+Sophistry
+(n.) reasoning that seems plausible but is actually unsound; a fallacy
+Synonyms: specious reasoning
+Sentence: The couple was beguiled into buying a bigger house than they needed by the clever sophistry of the broker. 
+Sumptuous
+(adj.) costly, rich, magnificent
+Synonyms: lavish, munificent, opulent, splendid
+Antonyms: skimpy, meager, stingy, niggardly, spartan
+Sentence: The sumptuous feast honoring the king’s birthday was followed by musical entertainment. 
+Ubiquitous
+(adj.) present or existing everywhere
+Synonyms: omnipresent, pervasive, universal
+Antonyms: restricted, limited, rare, scarce
+Sentence: The ubiquitous eye of the TV camera threatens to rob citizens of any sense of privacy.
+#done#

@@ -1,0 +1,1 @@
+points=java.awt.Point[x=521,y=767]###java.awt.Point[x=286,y=614]###java.awt.Point[x=547,y=485]###java.awt.Point[x=581,y=691]###java.awt.Point[x=903,y=422]###java.awt.Point[x=28,y=633]
